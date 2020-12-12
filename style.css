@@ -68,6 +68,9 @@ body{
 .resume .resume-left ul li:last-child{
     border-bottom: 0;
 }
+.resume .resume-left ul li .icon a{
+    color: #ff8801;
+}
 .resume .resume-left ul li .icon{
     width: 35px;
     height: 35px;
